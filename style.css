@@ -1,0 +1,54 @@
+/* .btn {
+    font-size: 10px;
+} */
+
+.demo_color {
+    
+}
+
+.btn_color {
+
+}
+
+.btn_movie {
+
+}
+
+.pixel {
+   
+    width: 25px;
+    height: 25px;
+    padding: 0px;
+    margin: 0px;
+    float: left;
+    box-sizing: border-box;
+    border: 1px whitesmoke solid;
+    cursor: cell;
+    
+}
+
+
+.drawboard {
+    
+    height: 100%;
+    width: 100%;
+    /* background-size: auto; */
+    background-size:cover;
+
+}
+
+
+.container2 {
+    width: 1500px;
+    height: 780px;
+}
+
+.btn_movie {
+
+
+}
+
+
+.input_movie {
+
+}
